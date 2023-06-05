@@ -9,6 +9,7 @@ const levels = {
   5: "Sr Assistant",
   10: "Jr Honoror",
   15: "Master Honoror",
+  25: "A Tier Honoror",
   35: "S Tier Honoror",
   65: "Junior Acolyte",
   105: "Acolyte",
