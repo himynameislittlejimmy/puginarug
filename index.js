@@ -20,6 +20,7 @@ const levels = {
   550: "Junior Hermit",
   650: "Hermit",
   1000: "Senior Hermit",
+  1250: "Manager",
   1500: "CEO",
   2500: "Pope",
   3500: "Underlord",
