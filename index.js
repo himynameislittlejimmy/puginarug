@@ -26,7 +26,9 @@ const levels = {
   3500: "Underlord",
   4500: "Lord",
   10500: "OverLord",
+  15500: "Prince",
   20500: "King",
+  25500: "Emperor"
   30500: "Anunnaki"
   50500: "Controller"
 }
